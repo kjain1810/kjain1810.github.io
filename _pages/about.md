@@ -19,5 +19,5 @@ Please feel free to reach out to me if you want to discuss any ideas or problems
 
 News
 ======
- - **Feb 2025**: Our work on load balancer for LLM datacenters, Intelligent Router, got accepted to EuroMLSys 2025 Workshop (co-located with EuroSys and ASPLOS 2025)!
+ - **Feb 2025**: Our work on load balancer for LLM datacenters, Intelligent Router, got accepted to EuroMLSys 2025 Workshop (co-located with EuroSys and ASPLOS 2025)! [Link](https://arxiv.org/abs/2408.13510) to the arXiv version of the paper.
  - **Feb 2025**: Our work on proactive scaling for LLM datacenters, SageServe, is available on arXiv: [Link](https://arxiv.org/abs/2502.14617)
