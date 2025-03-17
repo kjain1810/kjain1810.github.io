@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/intelligent_router
 excerpt: 'Load balancing amid multiple instances of the same LLM'
-date: 2024-08-24
+date: 2025-03-31
 venue: "The 5th Workshop on Machine Learning and Systems (EuroMLSys) co-located with EuroSys'25" 
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://arxiv.org/abs/2408.13510'
