@@ -19,6 +19,7 @@ Please feel free to reach out to me if you want to discuss any ideas or problems
 
 News
 ======
+ - **Sep 2025**: Our work on auto-scalers for LLM datacenters, SageServe, got acceptede to SIGMETRICS 2026! This work was part of my RFship at Microsoft. [Link](https://arxiv.org/abs/2502.14617) to the arXiv version of the paper.
  - **Aug 2025**: Started my PhD at GeorgiaTech!
  - **Feb 2025**: Our work on load balancer for LLM datacenters, Intelligent Router, got accepted to EuroMLSys 2025 Workshop (co-located with EuroSys and ASPLOS 2025)! [Link](https://arxiv.org/abs/2408.13510) to the arXiv version of the paper.
  - **Feb 2025**: Our work on proactive scaling for LLM datacenters, SageServe, is available on arXiv: [Link](https://arxiv.org/abs/2502.14617)

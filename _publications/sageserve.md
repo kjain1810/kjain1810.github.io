@@ -4,8 +4,8 @@ collection: publications
 category: conferences
 permalink: /publication/sageserve
 excerpt: 'Auto scaling for LLM datacenters'
-date: 2025-02-20
-venue: 'Under Review'
+date: 2025-09-26
+venue: 'To appear in SIGMETRICS 2026'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/abs/2502.14617'
 citation: 'Shashwat Jaiswal*, Kunal Jain*, Yogesh Simmhan, Anjaly Parayil, Ankur Mallick, Rujia Wang, Renee St Amant, et al. ‘Serving Models, Fast and Slow:Optimizing Heterogeneous LLM Inferencing Workloads at Scale’. arXiv [Cs.DC], 2025. https://doi.org/10.48550/ARXIV.2502.14617.
