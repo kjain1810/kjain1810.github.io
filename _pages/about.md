@@ -19,6 +19,8 @@ Please feel free to reach out to me if you want to discuss any ideas or problems
 
 News
 ======
+ - **Jun 2026**: Our work on secure execution of LLMs on untrusted GPUs with physical attack vectors, CloakLM, is availble on arXiv: [Link](https://arxiv.org/abs/2606.18400). We propose a software only defence against model exfiltration attacks with zero overhead!
+ - **May 2026**: Interning at M365 Research for the summer in Seattle!
  - **Sep 2025**: Our work on auto-scalers for LLM datacenters, SageServe, got acceptede to SIGMETRICS 2026! This work was part of my RFship at Microsoft. [Link](https://arxiv.org/abs/2502.14617) to the arXiv version of the paper.
  - **Aug 2025**: Started my PhD at GeorgiaTech!
  - **Feb 2025**: Our work on load balancer for LLM datacenters, Intelligent Router, got accepted to EuroMLSys 2025 Workshop (co-located with EuroSys and ASPLOS 2025)! [Link](https://arxiv.org/abs/2408.13510) to the arXiv version of the paper.
