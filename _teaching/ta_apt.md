@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant, Advanced Programming Techniques"
+title: "Teaching Assistant, Advanced Programming Techniques (ECE6122)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/ta_apt
